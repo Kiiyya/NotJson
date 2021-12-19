@@ -1,0 +1,6 @@
+[egg]
+name = "NotJson"
+version = "0.1.0"
+
+[dependencies]
+CoolCollections = { git = "https://github.com/Kiiyya/CoolCollections" }
