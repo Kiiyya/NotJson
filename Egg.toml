@@ -1,4 +1,4 @@
-[egg]
+[package]
 name = "NotJson"
 version = "0.1.0"
 
